@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+
+body{
+  margin: 0;
+  padding: 0;
+  background: url(./assets/pexels-jimmy-teoh-294331-1010640.jpg);
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  height: 100vh; 
+  font-weight: 600;
+  font-style: normal;
+}
+
